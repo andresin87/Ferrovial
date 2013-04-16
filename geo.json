@@ -1,0 +1,45 @@
+[
+	
+	{
+"fondo":"img/geotechnical/fichas/da_1.jpg",
+"titulo": "Underground works",
+"link_video": "videos/case_studies/guadarrama_tuneladora.mp4",
+"video_thumb": "img/geotechnical/fichas/thumb_1.jpg",
+"duracion": "1'45''",
+"texto": "Involvement in all stages of design and construction decisions, either for conventional or mechanized tunneling. In urban works particular attention is paid to the potential effects on existing buildings and preventive measures are designed using state-of-theart tools for settlement prediction.<br /><br /> As well as offering extensive experience in large infrastructure projects, the Geotechnical Engineering Department is able to lead interdisciplinary project teams. This is evidenced by the increase in our market share of large and challenging projects such as the subway systems in Barcelona, Madrid, Valencia, Bilbao, Lisbon and London."
+	},
+	{
+"fondo":"img/geotechnical/fichas/da_2.jpg",
+"titulo": "Structure Foundation",
+"link_video": "",
+"video_thumb": "",
+"duracion": "",
+"texto": "Design and construction constraints."
+	},
+	{
+"fondo":"img/geotechnical/fichas/da_3.jpg",
+"titulo": "Appraisal of Soil Conditions on Site",
+"link_video": "",
+"video_thumb": "",
+"duracion": "",
+"texto": "The Department is involved in the geotechnical investigation work from the planning to the reporting stages, paying particular attention to earthwork design and construction under difficult soil conditions. As operators of infrastructure we are particularly sensitive to the long-term response of earthwork under changing climactic conditions."
+	},
+	{
+"fondo":"img/geotechnical/fichas/da_4.jpg",
+"titulo": "Ground Improvement Techniques",
+"link_video": "",
+"video_thumb": "",
+"duracion": "",
+"texto": "Design and site supervision of preloading, grouting, deep vibratory methods and other techniques."
+	}
+,
+	{
+"fondo":"img/geotechnical/fichas/da_5.jpg",
+"titulo": "Material Reutilization",
+"link_video": "",
+"video_thumb": "",
+"duracion": "",
+"texto": "An internal policy in Ferrovial Agroman is to revaluate the materials generated during the construction phase, if technically possible, by reutilizing it in the worksite area to reduce needs in new material acquisition and protecting the environment."
+	}
+
+]

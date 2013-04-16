@@ -1,0 +1,348 @@
+[
+	{
+"background": "img/environment/fichas/da_1.jpg",
+"categoria": "Landscape",
+"nombre": "Hidroseeding",
+
+"texto": "In order to stabilize the slopes and begin the ecological restoration of the area a balanced composition of tackifire, mulch, organic fertilizer and seeds is required.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_2.jpg",
+"categoria": "Landscape",
+"nombre": "Plantation",
+
+"texto": "Designing tree and shrubs plantations is a key issue to fully integrate the infrastructure into the landscape.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_3.jpg",
+"categoria": "Landscape",
+"nombre": "Bioengineering Techniques",
+
+"texto": "3D volumetric meshes and fiber rolls for erosion control on slopes.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+
+		{
+"background": "img/environment/fichas/da_4.jpg",
+"categoria": "Landscape",
+"nombre": "Green Walls",
+
+"texto": "When embankment integration is a main goal and the resulting slope is very high, a green wall is a very useful tool to integrate the infrastructure into the surrounding environment and so avoid its erosion.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_5.jpg",
+"categoria": "Landscape",
+"nombre": "Crib Walls",
+
+"texto": "Gravity retaining walls that consist of a system of open cells which are filled with a granular material. The cells are created by forming a grid by stacking individual wall components. They can be made of timber, steel or precast concrete when strength and durability are required.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_6.jpg",
+"categoria": "Water resource",
+"nombre": "River Protection. Rip Rap",
+
+"texto": "This is one of the most common Best Management Practice tools developed and used in hydraulic design and prevents erosion of riverbanks.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_7.jpg",
+"categoria": "Water resource",
+"nombre": "Sediment Control",
+
+"texto": "To prevent turbidity in an aquatic habitat and potentially altering the life cycle of local species, different sediment control measures have been applied in our projects:<br /><br /><ul style='padding-left:15px;'><li>Reinforced filter dams</li><li>Silt fences</li><li>Fiber rolls</li></ul>",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_8.jpg",
+"categoria": "Water resource",
+"nombre": "Attenuation Ponds",
+
+"texto": "Additional reservoirs have to be done to retain water and prevent flooding. The ponds collect storm water and gradually release it into the natural water courses.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_9.jpg",
+"categoria": "Water resource",
+"nombre": "Erosion Control",
+
+"texto": "Slope erosion control and restoration techniques:<br /><br /><ul style='padding-left:15px;'><li>Reinforced filter dams</li><li>Silt fences</li><li>Fiber rolls</li></ul>",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_10.jpg",
+"categoria": "Water resource",
+"nombre": "Temporary Bridges",
+
+"texto": "An excellent and effective solution during the construction phase that provides access to sensitive worksite areas.<br /><br />This measure reduces water turbidity in streams.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_11.jpg",
+"categoria": "Wildflife",
+"nombre": "Ecological Survey",
+
+"texto": "We have conducted a wide range of wildlife studies, paying special attention to otters, badgers, bats, aquatic fauna, deer, amphibians and different bird species.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_12.jpg",
+"categoria": "Wildflife",
+"nombre": "Habitat Restoration",
+
+"texto": "Installation of artificial roosts for bats close to their habitat.<br /><br />Closure of existing badger setts within a corridor and construction of artificial setts for the protection of local mammals.",
+
+"thumb_video_1": "img/environment/fichas/thumb_12.jpg",
+"link_video_1": "videos/environment/primillar.mp4",
+"tiempo_video_1": "1'19''",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_13.jpg",
+"categoria": "Wildflife",
+"nombre": "Escape Devices",
+
+"texto": "Escape ramps and one-way doors are designed in special areas where wildlife corridors have been blocked by a highway.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+		{
+"background": "img/environment/fichas/da_14.jpg",
+"categoria": "Wildflife",
+"nombre": "Fauna Passage Design",
+
+"texto": "The splitting of natural habitats and ecosystems into smaller and more isolated patches is one of the biggest threats to the conservation of biological diversity. Fauna passages are a useful tool to obtain an ecologically sustainable transport network.<br /><br />Our technical solutions include:<br /><br /><ul style='padding-left:15px;'><li>Specific badger underpasses</li><li>Adaptation of culverts for otters</li><li>Eco-ducts</li><li>Multipurpose overpasses</li><li>Specific design for reptile and amphibian underpasses</li></ul>",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+			{
+"background": "img/environment/fichas/da_15.jpg",
+"categoria": "Wildlife protection",
+"nombre": "Photo Trapping",
+
+"texto": "Technique which uses a remotely activated camera equipped with an infrared sensor to detect the presence of wild animals. The Environmental Department employs this technique to assess the effectiveness of fauna passages and adapted culverts.",
+
+"thumb_video_1": "img/environment/fichas/thumb_15_a.jpg",
+"texto_video_1": "Wildlife passage",
+"link_video_1": "videos/environment/lludriga_1024.mp4",
+"tiempo_video_1": "0'26''",
+
+
+"thumb_video_2": "img/environment/fichas/thumb_15_b.jpg",
+"texto_video_2": "Wildlife study",
+"link_video_2": "videos/environment/senglar_1024.mp4",
+"tiempo_video_2": "1'00''"
+
+
+	},
+	
+			{
+"background": "img/environment/fichas/da_16.jpg",
+"categoria": "Atmosphere",
+"nombre": "Acoustic Studies",
+
+"texto": "The Environmental Department offers expert assistance in transportation noise analysis and the design of mitigation measures that ensure compliance with the reasonable and feasible criteria as defined in the Acoustic Federal Legislation:'Procedures for Abatement of Highway Traffic Noise and Construction Noise'.  We also follow the Traffic Noise Model 2.5, which is the officialnoise software required by the FHA. <br /><br /><ul style='padding-left:15px;'><li>Noise studies by way of 3D modeling</li><li>Location and subsequent design proposals for acoustic abatement</li><li>Optimization of noise mitigation projects</li><li>Use of permeable draining pavement</li></ul>",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+			{
+"background": "img/environment/fichas/da_17.jpg",
+"categoria": "Atmosphere",
+"nombre": "Acoustic Control",
+
+"texto": "We perform in situ noise control before and during construction and operation. <br /><br />An Acoustic Control Plan is designed and then monitored during construction and/or operational phases.<br /><br />Sound levels are measured at the locations of the most impacted buildings or facades.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+			{
+"background": "img/environment/fichas/da_18.jpg",
+"categoria": "Atmosphere",
+"nombre": "Sound-absorbing Pavement",
+
+"texto": "This reduces noise from tire/pavement interaction compared to traditional pavements of 3 dB(A). Noise reduction usually comes from the type of surface texture used on the pavements. It can be achieved with conventional liquid asphalts or with polymer-modified asphalts, including rubberized asphalts. Rubberized asphalts use finely ground rubber from used tires to modify the asphalt binder in the pavement mixture.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+
+			{
+"background": "img/environment/fichas/da_19.jpg",
+"categoria": "Atmosphere",
+"nombre": "Noise Barriers",
+
+"texto": "We offer a detailed design service by taking into account cost-effectiveness and by optimizing the length and height to meet legal and contract requirements.<br /><br />We can also design the barriers in such a way that they blend into the local landscape.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	},
+	
+			{
+"background": "img/environment/fichas/da_20.jpg",
+"categoria": "Atmosphere",
+"nombre": "Earth Noise Bund",
+
+"texto": "An alternative noise abatement measure to the standard noise barriers that allows us to meet requirements by using a more natural and integrated technique.",
+
+"thumb_video_1": "",
+"texto_video_1": "",
+"tiempo_video_1": "",
+
+"thumb_video_2": "",
+"texto_video_2": "",
+"tiempo_video_2": ""
+
+	}
+	
+	
+	
+]

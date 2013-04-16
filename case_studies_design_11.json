@@ -1,0 +1,22 @@
+[
+	{
+"background":"img/case_studies/hsr_pajares_tunnels/da_01.jpg",
+"nombre": "HSR Pajares Tunnels",
+"texto": "Section 3 includes the 10.4 km driving of the east tunnel section between Viadongos (Leon) and Telledo (Asturias), with the portal set on the Asturian side of the cordillera"
+
+	},
+	
+	{
+"background":"img/case_studies/hsr_pajares_tunnels/da_02.jpg",
+"nombre": "HSR Pajares Tunnels",
+"texto": "The geometric form of the main tunnels corresponds to a circular section with an 8.50 m clear internal diameter equivalent to a free space of some 52 m2, and complying with the aerodynamic and safety conditions required in high speed rail operation."
+
+	},
+	
+	{
+"background":"img/case_studies/hsr_pajares_tunnels/da_03.jpg",
+"nombre": "HSR Pajares Tunnels",
+"texto": "The railway alignment had been designed to allow for combined freight and passenger traffic, with a minimum speed of freight trains of 160 kph and taking advantage of the maximum speeds permitted by each curve to obtain speeds of up to 350 kph. "
+
+	}
+]

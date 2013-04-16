@@ -1,0 +1,24 @@
+[
+	
+	{
+"fondo":"img/roads_railways/fichas/da_1.jpg",
+"titulo": "Geometry Design",
+"texto": "Design of complex infrastructure projects such as major highways and high-speed railway lines.<br /><br />Design of major interchanges and junctions.<br /><br />Coordination of different disciplines such as geotechnics, drainage, structures and environment to produce optimum alignment.<br /><br />Use of different road/railway design software like Istram/Ispol, Geopak and Inroads."
+	},
+	{
+"fondo":"img/roads_railways/fichas/da_2.jpg",
+"titulo": "Pavement Design",
+"texto": "Based on different methods and adapted to local general practices and standards.<br /><br /> Assessed by experienced team who provide state-of-the-art solutions for each specific project."
+	},
+	{
+"fondo":"img/roads_railways/fichas/da_3.jpg",
+"titulo": "Road equipment",
+"texto": "Safe design of roads including safety barriers where required as per standards and specifications.<br /><br /> Design of traffic signs and road markings to improve driver experience and safety."
+	},
+	{
+"fondo":"img/roads_railways/fichas/da_4.jpg",
+"titulo": "Geomatics Engineering",
+"texto": "Providing Geomatics Engineering data, storing, processing, and delivering GIS, land surveying and mapping information for design or constructing purposes."
+	}
+	
+]

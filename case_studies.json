@@ -1,0 +1,266 @@
+[
+	{
+"id": "1",
+"background": "img/case_studies/ih_635_lbj/cover.jpg",
+"nombre": "IH 635 (LBJ)",
+"localizacion": "Dallas, Texas",
+"pais": "USA",
+"year": "2011-2016",
+
+"texto": "The IH-635 (LBJ Freeway) Managed Lanes Project is the most regionally significant transportation improvement project in North Texas. It will rebuild one of the busiest and most congested highways in North Texas by 2016. Construction is expected to start early 2011. The project will be designed and built concurrently, saving several years from the project schedule. When complete, it will provide improved mobility by almost doubling the existing roadway capacity. This Project is by far the largest private-public undertaken in the US, by complexity and by investment value",
+
+"kilometros": "27 Km",
+"dinero": "2,07 B $",
+"dimensiones": "",
+"tipologia": "",
+"link_design": "case_studies_design_fichas.html?case_studies_design_1.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_1.json",
+
+"link_video": "videos/case_studies/lbj_mute_1500.mp4",
+"thumb_video": "img/case_studies/ih_635_lbj/thumb.jpg",
+"texto_video": "Overview",
+"tiempo_video": "1'42''"
+
+	},
+	
+	{
+"id": "2",
+"background": "img/case_studies/sh130/cover.jpg",
+"nombre": "SH130",
+"localizacion": "Austin, Texas",
+"pais": "USA",
+"year": "2009-2012",
+
+"texto": "Segments 5 & 6 of State Highway 130 for a 40-mile (64 Km) link through the Southeast of Austin to I-10 near Seguin. The project was designed and built by Central Texas Highway Constructors, a Limited Liability Company formed by Ferrovial Agroman LLC and Zachry Construction Corp, and operated by the SH 130 Concession Company, LLC (with Cintra as major equity member) in partnership with the Texas Department of Transportation (TxDOT).",
+
+"kilometros": "64 Km",
+"dinero": "925 M $",
+"dimensiones": "11,9 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_2.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_2.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+
+	{
+"id": "3",
+"background": "img/case_studies/h407/cover.jpg",
+"nombre": "H407",
+"localizacion": "Toronto",
+"pais": "Canada",
+"year": "1999-2002",
+
+"texto": "The motorway, with a 99-year concession period, is the main investment ever made overseas by a Spanish group and which comes up to 2.404 billion Euro. The concession operates a trunk section of 69 km of existing motorway on which several new performances are made, and two sections of new construction, the West and the East sections, of 26.185 and 15.534 km respectively. There are also 7 interchanges of the West section, and 3 interchanges on the East section, and 5 interchanges are planned to be reconstructed on the trunk section as well as the construction of another 2 completely new interchanges.",
+
+"kilometros": "69 Km",
+"dinero": "317 M €",
+"dimensiones": "6,3 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_3.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_3.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+	
+
+	{
+"id": "4",
+"background": "img/case_studies/scut_azores/cover.jpg",
+"nombre": "SCUT",
+"localizacion": "Azores",
+"pais": "Portugal",
+"year": "2009-2012",
+
+"texto": "Ferrovial is contributing to the improvement of communications within the island. The local Administration awarded Cintra in 2006 the concession of a highway for a 30-year period under a shadow toll system. The SCUT Azores highway boasts a length of 93.7 km, of which 20 are already in operation, 46 are under construction and the remaining 26 km correspond to roads that are being refurbished. The total budget for the project was 270 million euros.",
+
+"kilometros": "93.7 Km",
+"dinero": "270 M €",
+"dimensiones": "11 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_4.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_4.json",
+
+"link_video": "videos/case_studies/scut_azores_overview.mp4",
+"thumb_video": "img/case_studies/scut_azores/thumb.jpg",
+"texto_video": "Overview",
+"tiempo_video": "1'34''"
+
+	},
+
+	{
+"id": "5",
+"background": "img/case_studies/indiana_toll_road_itr/cover.jpg",
+"nombre": "Indiana Toll Road",
+"localizacion": "Illinois, Indiana",
+"pais": "USA",
+"year": "2006-2011",
+
+"texto": "This project consists of reconstructing and widening a total of 6.67 miles of the existing Indiana Toll Road (ITR) near its western end in northwest Indiana.  At its western end, the ITR connects to the Chicago Skyway Bridge at the Illinois-Indiana border providing direct access into the City of Chicago.   The ITR carries a high volume of commuter traffic between northwest Indiana and the City of Chicago as well as considerable truck traffic carrying freight to and from Chicago.",
+
+"kilometros": "252,6 Km",
+"dinero": "250 M $",
+"dimensiones": "373,621 y<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_5.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_5.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+
+	{
+"id": "6",
+"background": "img/case_studies/m3/cover.jpg",
+"nombre": "M3",
+"localizacion": "Clonee-North of Kells",
+"pais": "Ireland",
+"year": "2007-2010",
+
+"texto": "The M3 Conee to Kells Toll motorway is very different from any other major road project that has been undertaken in Irelands’s civil construction history. It is part of the NDP (National Development Plan) for the NRA, inside it’s PPP (Public Private Partnership) programme. The project has a budget of $614.952.000 (460 Million Euros) and consists of the new construction of 163 kilometres of motorway and side roads.",
+
+"kilometros": "163 Km",
+"dinero": "484,65 M €",
+"dimensiones": "2 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_6.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_6.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+
+	{
+"id": "7",
+"background": "img/case_studies/n4n6/cover.jpg",
+"nombre": "N4/N6",
+"localizacion": "Kinnegad – Kilcock",
+"pais": "Ireland",
+"year": "2003-2005",
+
+"texto": "The project begins at the end of the existing M4 highway at Kilcock and passes south of the existing N4. A full grade separated interchange was provided at Kilcock connecting the Naas road to the Trim road. The route continues in a westerly direction towards Cappagh Hill, passing to the south of the Cappagh GAA pitch, crossing the Ballycomon River and continuing towards the regional road between Endenderry, Johnstown Bridge and Enfield, passing to the north of Johnstown House.",
+
+"kilometros": "765 Km",
+"dinero": "281.37 M €",
+"dimensiones": "5.1 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_7.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_7.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+
+	{
+"id": "8",
+"background": "img/case_studies/costa_del_sol_highway/cover.jpg",
+"nombre": "Costa del Sol Highway",
+"localizacion": "Málaga-Guadiaro",
+"pais": "Spain",
+"year": "1997-2002",
+
+"texto": "The whole Málaga-Estepona-Guadiaro highway contributes notably to traffic mobility along the Costa del Sol. It constitutes a safe, efficient alternative in a highly-congested semi-urban corridor. Its two sections (Málaga-Estepona and Estepona-Guadiaro) are part of the E15 European itinerary, gathering both the short and medium-haul traffic from Málaga and its airport and the long-haul traffic with origin and destination in the Bay of Algeciras.<br /><br />It has obtained certification under ISO 140001 which certifies the balance achieved between profitability and reduction of environmental impact.",
+
+"kilometros": "105,14 Km",
+"dinero": "731.6 M €",
+"dimensiones": "37,7 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_8.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_8.json",
+"link_video": "videos/case_studies/costa_del_sol.mp4",
+"thumb_video": "img/case_studies/costa_del_sol_highway/thumb.jpg",
+"texto_video": "Overview",
+"tiempo_video": "2'50''"
+
+	},
+
+	{
+"id": "9",
+"background": "img/case_studies/radial_4/cover.jpg",
+"nombre": "Radial 4",
+"localizacion": "Madrid - Ocaña",
+"pais": "Spain",
+"year": "2002-2004",
+
+"texto": "The R4 facilitates traffic flow between Getafe and Ocaña, bypassing the local towns of Pinto, Valdemeoro, Seseña and Aranjuez.<br /><br />It is made up of three sections: section one (53 km) is the only toll road and links the M50 with Ocaña. Section 2 (5 kms) is toll-free and connects the M-40 and the M-50. And section three (38 km), also free of charge, joins the A-2 and the M-409.",
+
+"kilometros": "95 Km",
+"dinero": "559.55  M €",
+"dimensiones": "9,6 M m<sup>3</sup>",
+"tipologia": "Excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_9.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_9.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	},
+
+	{
+"id": "10",
+"background": "img/case_studies/hsr_guadarrama_tunnel/cover.jpg",
+"nombre": "HSR Guadarrama Tunnel",
+"localizacion": "Madrid–Segovia",
+"pais": "Spain",
+"year": "2002-2008",
+
+"texto": "The Guadarrama Tunnels are to date the largest engineering project executed in Spain. It is part of the High-Speed Railway that will link Madrid with the principal cities in the North and Northwest of Spain. It is a double tunnel and the two tubes are 30 meters apart at their central axes except at the beginning where the separation is 40 meters. Both tunnels are connected by emergency galleries every 250 meters.",
+
+"kilometros": "28,4 Km",
+"dinero": "472,45 M €",
+"dimensiones": "2 M m<sup>3</sup>",
+"tipologia": "Tunnel excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_10.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_10.json",
+
+"link_video": "videos/case_studies/guadarrama_tuneladora.mp4",
+"thumb_video": "img/case_studies/hsr_guadarrama_tunnel/thumb.jpg",
+"texto_video": "Overview",
+"tiempo_video": "1'45''"
+
+	},
+
+	{
+"id": "11",
+"background": "img/case_studies/hsr_pajares_tunnels/cover.jpg",
+"nombre": "HSR Pajares Tunnels",
+"localizacion": "Viadongos - Telledo",
+"pais": "Spain",
+"year": "2004-2009",
+
+"texto": "Pajares Tunnels are part of the León–Asturias Line, belonging to the High-Speed North-Northwest Corridor, a bigger project for taking this route under the major natural obstacle on the line: the Cantábrica mountain range. Pajares Tunnels consist of two parallel single track tubes, with a length of 24.9 km and 8.50 m interior free diameter, in a circular section. It was designed to allow speeds over 250 km/h. Its construction has been divided in four contracts. Ferrovial Agroman in JV with SACYR and CAVOSA was awarded with the construction of section 3.",
+
+"kilometros": "24,9  Km",
+"dinero": "224,46 M €",
+"dimensiones": "527.794 m<sup>3</sup>",
+"tipologia": "Tunnel excavation",
+"link_design": "case_studies_design_fichas.html?case_studies_design_11.json",
+"link_technical": "case_studies_technical_fichas.html?case_studies_technical_11.json",
+
+"link_video": "",
+"thumb_video": "",
+"texto_video": "",
+"tiempo_video": ""
+
+	}
+
+]

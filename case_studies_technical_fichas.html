@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html> 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"> 
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+	
+<title>Case Studies</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen">		
+</head>
+<body >
+	<div id="viewport">
+	
+	<div id="navigation-ipad" style="display:block">
+		 			
+	</div>
+	
+    <div id="content">
+
+        <div class="top-bar-ipad-index">
+				<a href="#" id="link-navigation-ipad" class="button"><span style="padding: 13px 3px 3px;position:absolute;z-index:99999;">
+					<img src="img/boton_menu_ipad.png" width="17" height="17">
+				</span></a>
+				<a href="javascript:history.go(-1)" id="back-ipad" class="button-back"><span style="float:left;position:absolute;z-index:99999;">
+					<img src="img/back.png" width="40" height="40">
+				</span></a>
+                <a href="index.html" id="home-ipad" class="button-home"><span style="float:right;margin-top:-46px;margin-right:10px;z-index:99999;">
+					<img src="img/home.png" width="40" height="40">
+				</span></a>
+		</div>
+			
+		<div id="container" class="background-proyecto-ficha3">
+		<script id="page_template" type="text/x-jquery-tmpl">
+			<div class="columna1-proyecto-ficha3">
+				<div class="encabezado-proyecto-ficha3">
+					<div class="titulo-proyecto-ficha3">${titulo}</div>
+					<div class="localizacion-proyecto-ficha3">${localizacion}</div>
+					<div class="year-proyecto-ficha3">${year}</div>
+				</div>
+				
+				<!-- <div class="linea-proyecto-ficha3"><hr /></div> -->
+				<div class="thumb1-img-proyecto-ficha3"><img src="${thumb_imagen}"></div>
+				
+				<div class="datos-proyecto-ficha3">
+					<div class="datos-texto-proyecto-ficha3">Lenght</div>
+					<div class="datos-numero-proyecto-ficha3">${longitud}</div>
+					<div class="datos-texto-proyecto-ficha3">Budget</div>
+					<div class="datos-numero-proyecto-ficha3">${dinero}</div>
+				</div>
+				
+				<div class="thumb2-img-proyecto-ficha3"><a href="${link_mapa}"><img src="${imagen_mapa}">View map</a></div>
+	
+			</div>
+			
+			
+			<div class="columna2-proyecto-ficha3">
+				<div class="caja-texto-proyecto-ficha3">
+					<div class="texto-proyecto-ficha3">
+					{{html texto1}}
+					
+					</div>
+				</div>
+				
+				
+				{{html tabla}}
+				{{html tabla2}}
+				{{html item1}}
+				{{html item2}}
+				{{html item3}}
+				{{html item4}}
+				{{html item5}}
+
+			</div>
+			
+		
+		</div>
+		
+		</script>
+     
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script> 
+<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>            
+<script type="text/javascript" src="js/custom.js"></script>         
+<script>
+
+	$(document).ready(function(){
+		var json = self.location.search.substring(1);
+		$.getJSON(json, function(data) {
+			$('#page_template').tmpl(data).appendTo('#container');
+			
+		});
+	});
+	 
+</script> 
+       
+	</div>		
+</div>
+
+</body>
+</html>

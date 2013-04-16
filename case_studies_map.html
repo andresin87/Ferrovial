@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html> 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"> 
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+	
+<title>Case Studies</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen">		
+</head>
+<body >
+	<div id="viewport">
+	
+	<div id="navigation-ipad" style="display:block">
+	</div>
+	
+    <div id="content">
+
+        <div class="top-bar-ipad-index">
+				<a href="#" id="link-navigation-ipad" class="button"><span style="padding: 13px 3px 3px;position:absolute;z-index:99999;">
+					<img src="img/boton_menu_ipad.png" width="17" height="17">
+				</span></a>
+				<a href="javascript:history.go(-1)" id="back-ipad" class="button-back"><span style="float:left;position:absolute;z-index:99999;">
+					<img src="img/back.png" width="40" height="40">
+				</span></a>
+                <a href="index.html" id="home-ipad" class="button-home"><span style="float:right;margin-top:-46px;margin-right:10px;z-index:99999;">
+					<img src="img/home.png" width="40" height="40">
+				</span></a>
+		</div>
+		<div id="container" class="background-proyecto-ficha3"></div>
+		
+<script id="page_template" type="text/x-jquery-tmpl">
+			<div class="encabezado-proyecto-ficha3">
+				<div class="titulo-proyecto-ficha3">${nombre}</div>
+				<div class="localizacion-proyecto-ficha3">${localizacion}, ${pais}</div>
+				<div class="year-proyecto-ficha3">${year}</div>
+			</div>
+			
+			<div class="caja-mapa">
+				
+					<div class="imagen-mapa"><img src="${imagen_mapa}" width="650"></div>
+					<div class="caja-leyenda-mapa">
+						{{html leyenda_mapa}}
+					</div>
+				
+			</div>
+</script>
+     
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>              
+<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>              
+<script type="text/javascript" src="js/custom.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		var id = self.location.search.substring(1);
+		$.getJSON("cs_ficha_4.json", function(data) {
+			$('#page_template').tmpl(data[id]).appendTo('#container');
+		});
+	});
+</script>
+       
+	</div>		
+</div>
+
+</body>
+</html>

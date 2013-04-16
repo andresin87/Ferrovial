@@ -1,0 +1,17 @@
+[
+	{
+"titulo":"H407",
+"localizacion": "Ontario, Toronto, Canada",
+"year":"1999-2002",
+"thumb_imagen":"img/case_studies/h407/mini1.jpg",
+"longitud":"64 Km",
+"dinero":"925 M $",
+"link_mapa":"case_studies_map.html?2",
+"imagen_mapa":"img/case_studies/h407/mini2.jpg",
+"tabla":"",
+"tabla2":"",
+"item1":"<div class='caja-casestudies-2-columnas'><div class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Geotechnics</div> <div class='datos-texto-proyecto-ficha3'>Excavation</div> <div class='datos-numero-proyecto-ficha3'>6,3 M m<sup>3</sup></div> <div class='datos-texto-proyecto-ficha3'>Embankment</div> <div class='datos-numero-proyecto-ficha3'>7,3 M m<sup>3</sup></div></div><div class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Structures</div> <div class='datos-texto-proyecto-ficha3'>Deck area</div> <div class='datos-numero-proyecto-ficha3'>71.150 m<sup>2</sup></div><div class='datos-texto-proyecto-ficha3-bold'>Deck area</div><div class='datos-texto-proyecto-ficha3'>150 m long with three spans of 35+60+55 respectively.</div><div class='datos-texto-proyecto-ficha3-bold'>16th mile viaduct</div><div class='datos-texto-proyecto-ficha3'>340 m long with 8 spans</div><div class='datos-texto-proyecto-ficha3-bold'>Rouge River viaduct</div><div class='datos-texto-proyecto-ficha3'>192 m long with 6 spans</div><div class='datos-texto-proyecto-ficha3-bold'>Little Rouge viaduct</div><div class='datos-texto-proyecto-ficha3'>190 m long with 5 spans</div><div class='datos-texto-proyecto-ficha3-bold'>West Duffins viaduct</div><div class='datos-texto-proyecto-ficha3'>136 m long with 4 spans</div></div><div style='margin-top: -192px;' class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Pavement design</div> <div class='datos-texto-proyecto-ficha3'>Wet mix macadam</div> <div class='datos-numero-proyecto-ficha3'>2,9 M m<sup>3</sup></div> <div class='datos-texto-proyecto-ficha3'>Bituminous asphalt materials</div> <div class='datos-numero-proyecto-ficha3'>1 M t</div></div><div class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Drainage</div> <div class='datos-texto-proyecto-ficha3'>Culverts</div> <div class='datos-numero-proyecto-ficha3'>20.631 m</div></div></div>",
+"texto1": "The H 407 motorway is the most modern operated motorway in the world, with a totally electronic and free toll system.<br /><br /> The typical section consists of two carriageways of three traffic lanes each on the West section, and two traffic lanes on the East section, as well as 3m wide inner and outer shoulders. On the West section, the central reserve is urban, with a dimension of 7,5m between shoulder inner edges and provided with a guard-rail. The platform is left ready for a future enlargement to a fourth lane on the outside. On the East section, the central reserve is of rural type, and has 29.5m between shoulder inner edges."
+
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+"titulo":"Indiana Toll Road (ITR)",
+"localizacion": "Illinois, Indiana, USA",
+"year":"2006-2011",
+"thumb_imagen":"img/case_studies/indiana_toll_road_itr/mini1.jpg",
+"longitud":"64 Km",
+"dinero":"925 M $",
+"link_mapa":"case_studies_map.html?4",
+"imagen_mapa":"img/case_studies/indiana_toll_road_itr/mini2.jpg",
+"tabla":"",
+"tabla2":"",
+"item1":"<div class='caja-casestudies-2-columnas'><div class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Geotechnics</div> <div class='datos-texto-proyecto-ficha3'>Excavation</div> <div class='datos-numero-proyecto-ficha3'>373,621 y<sup>3</sup></div> <div class='datos-texto-proyecto-ficha3'>Embankment</div> <div class='datos-numero-proyecto-ficha3'>376,588 y<sup>3</sup></div></div><div class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Structures</div> <div class='datos-texto-proyecto-ficha3'>Bridge demolition</div> <div class='datos-numero-proyecto-ficha3'>749,960 ft<sup>2</sup></div><div class='datos-texto-proyecto-ficha3'>Driven Steel Piles</div> <div class='datos-numero-proyecto-ficha3'>232,006 ft</div><div class='datos-texto-proyecto-ficha3'>Structural steel</div> <div class='datos-numero-proyecto-ficha3'>9,783,590 lbs</div></div><div style='margin-top:-40px;' class='datos-proyecto-ficha5'> <div class='datos-titulo-ficha5'>Pavement design</div> <div class='datos-texto-proyecto-ficha3'>Sub-base</div> <div class='datos-numero-proyecto-ficha3'>193,263 y<sup>3</sup></div> <div class='datos-texto-proyecto-ficha3'>Asphalt</div> <div class='datos-numero-proyecto-ficha3'>255,334 t</div><div class='datos-texto-proyecto-ficha3'>Asphalt membrane</div> <div class='datos-numero-proyecto-ficha3'>898,390 ft<sup>2</sup></div><div class='datos-texto-proyecto-ficha3'>Concrete slab deck</div> <div class='datos-numero-proyecto-ficha3'>1,032,189 ft<sup>2</sup></div></div></div>",
+"texto1": "When the ITR was privatized to a consortium led by Cintra, the concessionaire acquired the obligation to widen the existing four lanes (two per direction) to six lanes on several segments of the ITR Program. The original road was built in the fifties, with some later widening. The project is divided into three sections. The three sections are Sections I, II and IV with lengths of 3.40, 1.50 and 1.77 miles respectively. Section III lies between Sections II and IV but is not included in the project since it was previously widened to three lanes per direction through an Indiana Department of Transportation project."
+
+	}
+]

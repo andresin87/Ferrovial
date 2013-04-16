@@ -1,0 +1,165 @@
+﻿<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<!-- <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">-->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+<title>FERROVIAL</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen">	
+</head>
+
+<body>
+<div id="viewport">
+
+	<div id="navigation-ipad" style="display:block">
+	   
+	</div>
+
+	<div id="content">
+
+		<div class="top-bar-ipad-index">
+				<a href="#" id="link-navigation-ipad" class="button"><span style="padding: 13px 3px 3px;position:absolute;z-index:99999;">
+					<img src="img/boton_menu_ipad.png" width="17" height="17">
+				</span></a>
+				<a href="javascript:history.go(-1)" id="back-ipad" class="button-back"><span style="float:left;position:absolute;z-index:99999;">
+					<img src="img/back.png" width="40" height="40">
+				</span></a>
+                <a href="index.html" id="home-ipad" class="button-home"><span style="float:right;margin-top:-46px;margin-right:10px;z-index:99999;">
+					<img src="img/home.png" width="40" height="40">
+				</span></a>
+		</div>
+            
+            
+        <div id="container" class="background-index"> 
+			<div class="cabecera-bridges-expertise">
+				<div class="titulo1-bridges-expertise">Geotechnics</div>
+				<div class="titulo2-bridges-expertise">Expertise</div>
+				<div class="descripcion-bridges-expertise">As the core business of our organization
+is designing, building and operating major
+infrastructure projects, we have developed the
+internal capabilities to deal with all geotechnical
+aspects.</div>
+			</div>	
+				
+				
+				<div id="container-scroll-roads" class="variable-sizes clearfix isotope">
+			
+ 				<div class="element ancho8 alto8">
+    				<a href="geo_fichas.html#id-1">
+    					<img src="img/geotechnical/expertise/da_1.jpg">
+						<div class="texto-box-roads">
+  							<div class="nombre-box-roads">Underground Works</div>
+						</div>
+     				</a>
+    			</div>
+				
+				<div class="element ancho9 alto9">
+    				<a href="geo_fichas.html#id-2">
+    					<img src="img/geotechnical/expertise/da_2.jpg">
+						<div class="texto-box-roads">
+  							<div class="nombre-box-roads">Structure Foundation</div>
+						</div>
+     				</a>
+    			</div>
+				
+				
+				
+				
+				
+				<div class="element ancho10 alto10">
+    				<a href="geo_fichas.html#id-5">
+    					<img src="img/geotechnical/expertise/da_3.jpg">
+						<div class="texto-box-roads">
+  							<div class="nombre-box-roads">Material Reutilization</div>
+						</div>
+     				</a>
+    			</div>
+				
+				<div class="element ancho9 alto9"></div>
+				
+				
+				<div class="element ancho10 alto10">
+    				<a href="geo_fichas.html#id-3">
+    					<img src="img/geotechnical/expertise/da_4.jpg">
+						<div class="texto-box-roads">
+  							<div class="nombre-box-roads">Appraisal of Soil Conditions on Site</div>
+						</div>
+     				</a>
+    			</div>
+				
+				
+				<div class="element ancho9 alto9">
+    				<a href="geo_fichas.html#id-4">
+    					<img src="img/geotechnical/expertise/da_5.jpg">
+						<div class="texto-box-roads">
+  							<div class="nombre-box-roads">Ground Improvement Techniques</div>
+						</div>
+     				</a>
+    			</div>
+				
+				
+				
+    			
+ 
+			
+			</div> <!--  FIN #container-index-ipad-->
+  
+			
+    
+    		
+
+   <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>     
+   <!-- <script src="js/jquery.nicescroll.min.js"></script>                   
+               
+ <script>
+  $(document).ready(function() {  
+	$("body").niceScroll({zindex:0,touchbehavior:false,cursoropacitymax:0.0,horizrailenabled:false,});
+	$("#navigation-ipad").niceScroll({zindex:99999,touchbehavior:true,cursoropacitymax:0.0,horizrailenabled:false,grabcursorenabled:false,hwacceleration:true,bouncescroll:true});
+  });
+</script> -->
+
+
+<script src="js/jquery.isotope.js"></script>
+<script src="js/jquery.infinitescroll.min.js"></script>
+<script>
+     $(function(){
+      var $container = $('#container-scroll-roads');
+	   $container.infinitescroll({
+        navSelector  : '#page_nav',    // selector for the paged navigation 
+        nextSelector : '#page_nav a',  // selector for the NEXT link (to page 2)
+        itemSelector : '.element',     // selector for all items you'll retrieve
+        loading: {
+            finishedMsg: 'No more pages to load.',
+            img: 'img/loader.gif'
+          }
+        },
+        // call Isotope as a callback
+        function( newElements ) {
+          $container.isotope( 'insert', $( newElements )); 
+        }
+      );
+
+      $container.isotope({
+        itemSelector : '.element',
+		 masonry : {
+          columnWidth :8  
+        },
+      }).isotope( 'insert', $container.find('.element') );
+	  
+	  
+
+
+    });
+</script>
+<script type="text/javascript" src="js/custom.js"></script>  
+                  
+</div>
+
+
+				
+</div>
+
+</body>
+</html>

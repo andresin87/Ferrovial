@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html> 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"> 
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+	
+<title>Environment</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen">
+<link href="css/royalslider.css" rel="stylesheet">	
+</head>
+<body >
+	<div id="viewport">
+	 <div  class="page wrapper main-wrapper">  
+	<div id="navigation-ipad" style="display:block">
+					
+	</div>
+	
+    <div id="content">
+
+        <div class="top-bar-ipad-index">
+				<a href="#" id="link-navigation-ipad" class="button"><span style="padding: 13px 3px 3px;position:absolute;z-index:99999;">
+					<img src="img/boton_menu_ipad.png" width="17" height="17">
+				</span></a>
+				<a href="javascript:history.go(-1)" id="back-ipad" class="button-back"><span style="float:left;position:absolute;z-index:99999;">
+					<img src="img/back.png" width="40" height="40">
+				</span></a>
+                <a href="index.html" id="home-ipad" class="button-home"><span style="float:right;margin-top:-46px;margin-right:10px;z-index:99999;">
+					<img src="img/home.png" width="40" height="40">
+				</span></a>
+		</div>
+			
+		<div id="container">
+			<div id="gallery-t-group" class="royalSlider rsDefaultInv">
+			
+			</div>
+		</div>
+
+<script id="page_template" type="text/x-jquery-tmpl">
+
+		<div>
+		
+			<div style="margin-top: -492px;" class="background-image"><img src="${fondo}"></div>
+			
+			<div class="caja-degradado-bridges">
+				<div class="box-texto-caja-degradado-bridges">
+					<div class="titulo1-caja-degradado-bridges">${categoria}</div>
+					<div class="titulo2-caja-degradado-bridges">${titulo}</div>
+					<div class="localizacion-caja-degradado-bridges">${pais}</div>
+					<div class="year-caja-degradado-bridges">${year}</div>
+					<div class="longitud-caja-degradado-bridges">${longitud}</div>
+					<div class="material-caja-degradado-bridges">${material}</div>
+					<div class="descripcion-caja-degradado-bridges">{{html texto}}</div>
+				</div>
+				
+				<div class="box-thumb-video-bridges">
+				<a href="${link_video}">
+					<div class="thumb-video-bridges"><img src="${video_thumb}"></div>
+					<!-- <div class="play-thumb-video-bridges">${play}</div> -->
+					<div class="tiempo-thumb-video-bridges">${duracion}</div>
+				</a>
+				</div>
+				
+			</div>	
+		</div>
+		
+
+</script>
+     
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>              
+<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>    
+<script src="js/jquery.royalslider.min453d.js"></script>      
+<script>
+
+	$(document).ready(function(){
+		$.getJSON('bridges.json', function(data) {
+			$('#page_template').tmpl(data).appendTo('#gallery-t-group');
+
+
+			// aqui va el royal slider
+		  var win = $(window);
+		  var slider = $('#gallery-t-group').royalSlider({
+
+			deeplinking: {
+			  enabled: true,
+			  change: true,
+			  prefix: 'id-'
+			},
+			globalCaption: false,
+			numImagesToPreload: 3,
+			fadeinLoadedSlide: false,
+			imageAlignCenter: true,
+			imageScaleMode: 'fill',
+			transitionType:'move',
+		  
+			loop: false,
+			arrowsNav: false,
+			keyboardNavEnabled: true,
+			navigateByClick:false,
+			sliderDrag:true,
+			
+		  }).data('royalSlider');
+			
+		});
+	});
+	 
+</script>
+       
+	</div>		
+</div>
+</div>
+
+</body>
+</html>

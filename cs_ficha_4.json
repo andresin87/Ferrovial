@@ -1,0 +1,101 @@
+﻿[
+	{
+"nombre": "IH 635 (LBJ)",
+"localizacion": "Dallas, Texas",
+"pais": "USA",
+"year": "2011-2016",
+
+"imagen_mapa": "img/case_studies/ih_635_lbj/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>XH 35E Section (from Loop12/IH35E to Crown Rd)</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>XH 635/IH 35E Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>XH 635 Section (from east of IH 35E to approximately US 75)</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>4</div><div class='texto-proyecto-ficha4'>XH 635/US 75 Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>5</div><div class='texto-proyecto-ficha4'>XH 35E Capacity Improvement Section</div></div>"
+	},
+	{
+"nombre": "SH130",
+"localizacion": "Austin, Texas",
+"pais": "USA",
+"year": "2009-2012",
+
+"imagen_mapa": "img/case_studies/sh130/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Segment 5 route: From north of Mustang Ridge to FM1185 north of Lockhart (approx. 11 miles), following the current US 183 alignment. Main lanes (2+2) and Frontage Roads (2+2).</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Segment 6 route: From FM 1185 to I-10 northeast of Seguin (approx. 29 miles). Main lanes (2+2) and Frontage Roads (2+2) to CR 218.</div></div>"
+	},
+	{
+"nombre": "H407",
+"localizacion": "Toronto",
+"pais": "Canada",
+"year": "1999-2002",
+
+"imagen_mapa": "img/case_studies/h407/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>H407 West Extension, 16 miles, 3 + 3 lanes</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>H407 Central, 43 miles, Completion 7 deferred interchanges</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>H407 East Partial Extension, 10 miles, 2 + 2 lanes</div></div>"
+	},
+	{
+"nombre": "SCUT",
+"localizacion": "Azores",
+"pais": "Portugal",
+"year": "2009-2012",
+
+"imagen_mapa": "img/case_studies/scut_azores/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>The 35.4 km South Road connecting the airport and the largest city with the south of the island.</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>The 33.7 km North-South road, which improves the connection between the two main towns on the island.</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>The 24.6 km North-East road, which will improve the connections between the less developed towns on the island.</div></div>"
+	},
+	{
+"nombre": "Indiana Toll Road",
+"localizacion": "Illinois, Indiana",
+"pais": "USA",
+"year": "2006-2011",
+
+"imagen_mapa": "img/case_studies/indiana_toll_road_itr/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Indiana Toll Road</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Interstate 80</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>Pennsylvania Turnpike</div></div>"
+	},
+	{
+"nombre": "M3",
+"localizacion": "Clonee-North of Kells",
+"pais": "Ireland",
+"year": "2007-2010",
+
+"imagen_mapa": "img/case_studies/m3/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Proposed M3</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Dunshaughlin Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>Blundelstown Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>4</div><div class='texto-proyecto-ficha4'>Kilcarn Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>5</div><div class='texto-proyecto-ficha4'>Athboy Road Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>6</div><div class='texto-proyecto-ficha4'>Kells Interchange</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>7</div><div class='texto-proyecto-ficha4'>Kells Bypass</div></div>\n<div style='float: right;margin-right: 85px;margin-top: -244px;' class='linea-leyenda'><div style='background-color:#ccc;' class='circulo'></div><div class='numero-circulo'>8</div><div class='texto-proyecto-ficha4'>Existing N3</div></div>"
+	},
+	{
+"nombre": "N4/N6",
+"localizacion": "Kinnegad – Kilcock",
+"pais": "Ireland",
+"year": "2003-2005",
+
+"imagen_mapa": "img/case_studies/n4n6/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>N4/N6, Kinnegad – Kilcock Motorway</div></div>\n<div class='linea-leyenda'><div style='background-color:#ccc;' class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Existing N4</div></div>\n<div class='linea-leyenda'><div style='background-color:#ccc;' class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>Existing N6</div></div>"
+	},
+	{
+"nombre": "Costa del Sol Highway",
+"localizacion": "Málaga-Guadiaro",
+"pais": "Spain",
+"year": "1997-2002",
+
+"imagen_mapa": "img/case_studies/costa_del_sol_highway/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Costa del Sol Highway</div></div>"
+	},
+	{
+"nombre": "Radial 4",
+"localizacion": "Madrid - Ocaña",
+"pais": "Spain",
+"year": "2002-2004",
+
+"imagen_mapa": "img/case_studies/radial_4/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Radial 4</div></div>"
+	},
+	{
+"nombre": "HSR Guadarrama Tunnel",
+"localizacion": "Madrid–Segovia",
+"pais": "Spain",
+"year": "2002-2008",
+
+"imagen_mapa": "img/case_studies/hsr_guadarrama_tunnel/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Maximum cover 992 m</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Slope 15%</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>Slope 9,5%</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>4</div><div class='texto-proyecto-ficha4'>Slope 2%</div></div>"
+	},
+	{
+"nombre": "HSR Pajares Tunnels",
+"localizacion": "Viadongos - Telledo",
+"pais": "Spain",
+"year": "2004-2009",
+
+"imagen_mapa": "img/case_studies/hsr_pajares_tunnels/map.png",
+"leyenda_mapa":"<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>1</div><div class='texto-proyecto-ficha4'>Pola de Lena - Campomanes, 4,9 Km</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>2</div><div class='texto-proyecto-ficha4'>Campomanes - Sotiello, 4,3 Km</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>3</div><div class='texto-proyecto-ficha4'>Sotiello - Pajares Tunnels, 6,1 Km</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>4</div><div class='texto-proyecto-ficha4'>Pajares Tunnels, 25 Km</div></div>\n<div class='linea-leyenda'><div class='circulo'></div><div class='numero-circulo'>5</div><div class='texto-proyecto-ficha4'>La Robla - Pajares Tunnels, 9,4 Km</div></div>\n<div class='linea-leyenda'><div style='background-color:#ccc;' class='circulo'></div><div class='numero-circulo'>6</div><div class='texto-proyecto-ficha4'>Actual Railway</div></div>"
+	}
+]

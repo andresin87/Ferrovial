@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.exitdesign.ferrovial"
+	version 	= "1.0.0">
+
+	<name>Ferrovial</name>
+	
+	<description>Ferrovial App.</description>
+	
+	<author href="www.exitdesign.com" email="developers@exitdesign.com">
+        Exit de Disseny S.L.
+    </author>
+	
+	<!--
+        If you do not want any permissions to be added to your app, add the
+        following tag to your config.xml; you will still have the INTERNET
+        permission on your app, which PhoneGap requires.
+    -->
+    <preference name="permissions"                value="none"/>
+	
+	<preference name="orientation" value="portrait" />						<!-- all: default means both landscape and portrait are enabled -->
+	<preference name="phonegap-version" value="2.5.0" />					<!-- all: current version of PhoneGap -->
+	<preference name="target-device" value="tablet" />						<!-- all: possible values handset, tablet, or universal -->
+	<preference name="fullscreen" value="true" />							<!-- all: hides the status bar at the top of the screen -->
+	<preference name="webviewbounce" value="false" />						<!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
+	<preference name="prerendered-icon" value="false" />					<!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
+	<preference name="stay-in-webview" value="false" />						<!-- ios: external links should open in the default browser, 'true' would use the webview the app lives in -->
+	<preference name="detect-data-types" value="true" />           <!-- ios: controls whether data types (such as phone no. and dates) are automatically turned into links by the system -->
+	<preference name="exit-on-suspend" value="false" />          <!-- ios: if set to true, app will terminate when home button is pressed -->
+	<preference name="ios-statusbarstyle" value="black-opaque" />   <!-- ios: black-translucent will appear black because the PhoneGap webview doesn't go beneath the status bar -->
+	<preference name="show-splash-screen-spinner" value="false" />
+	
+	<!-- Define app icon for each platform. -->
+    <icon src="icon.png" />
+	
+	<icon src="icons/icon-57.png"		gap:platform="ios"			width="57" height="57" />
+	<icon src="icons/icon-72.png"		gap:platform="ios"		width="72" height="72" />
+    <icon src="icons/icon-57-2x.png"	gap:platform="ios"			width="114" height="114" />
+    <icon src="icon/icon-72-2x.png"		gap:platform="ios"			width="144" height="144" />
+	
+	<gap:splash src="icons/splash.png" />
+
+	<gap:splash src="icons/default_portrait.png" width="768" height="1024" />
+</widget>

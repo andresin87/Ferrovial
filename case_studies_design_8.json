@@ -1,0 +1,29 @@
+[
+	{
+"background":"img/case_studies/costa_del_sol_highway/da_01.jpg",
+"nombre": "Costa del Sol Highway",
+"texto": "This motorway consists of two 3.5 m wide travel lanes in each direction, 2.5 m wide outside shoulders and 1.0 m wide inside shoulders as well as a 10 m wide center median (along the Málaga-Estepona section), which allows for a possible future enlargement to three traffic lanes in each direction. The center median in the next section (Estepona-Guadiaro) is 3.0 m wide."
+
+	},
+	
+	{
+"background":"img/case_studies/costa_del_sol_highway/da_02.jpg",
+"nombre": "Costa del Sol Highway",
+"texto": "The Motorway includes a large number of viaducts, flyovers and underpasses, as well as fauna passes. Several types of deck were used for the bridges. High structures with large spans were constructed with precast segments; low structures with large spans were full-width single beams with exterior prestressing; and moderate span structures had U beams with compression slabs."
+
+	},
+	
+	{
+"background":"img/case_studies/costa_del_sol_highway/da_03.jpg",
+"nombre": "Costa del Sol Highway",
+"texto": "Two double-tube tunnels were mined in the Málaga-Estepona section with lengths of 590 m and 275 m. The next section (Estepona-Guadiaro) extends also a similar mountainous area, which meant that a large amount of earthmoving was required, as well as 7 large viaducts and 4 tunnels, two double mined tunnels and two double cut and cover tunnels."
+
+	},
+	
+	{
+"background":"img/case_studies/costa_del_sol_highway/da_04.jpg",
+"nombre": "Costa del Sol Highway",
+"texto": "An indication of the unevenness of the terrain is the fact that 9.1 km has a gradient above 3%, including 3.8 km with more than 5%. The minimum radius at the trunk is 800 m."
+
+	}
+]

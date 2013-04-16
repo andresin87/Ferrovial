@@ -1,0 +1,17 @@
+[
+	{
+"titulo":"HSR Pajares Tunnels",
+"localizacion": "Viadongos - Telledo",
+"year":"2004-2009",
+"thumb_imagen":"img/case_studies/hsr_pajares_tunnels/mini1.jpg",
+"longitud":"24,9 Km",
+"dinero":"224,46 M €",
+"link_mapa":"case_studies_map.html?10",
+"imagen_mapa":"img/case_studies/hsr_pajares_tunnels/mini2.jpg",
+"tabla":"<div class='caja-casestudies-2-columnas'> <div class='datos-tabla-ficha5'> <table border='0' width='100%' cellpadding='20' cellspacing='20'> <tr> <td>Excavation by means of drilling and blasting</td> <td>393.495 m<sup>3</sup></td> </tr> <tr> <td>Excavation with Tunnel Boring Machine (TBM)</td> <td>527.794 m<sup>3</sup></td> </tr> <tr> <td>Steel fiber reinforced shotcrete</td> <td>78.679 m<sup>3</sup></td> </tr> <tr> <td>TH-29, TH-36, TH-44 metalic girders</td> <td>387.111 m</td> </tr> <tr> <td>6x150x150 Mesh</td> <td>536.722 m<sup>2</sup></td> </tr> <tr> <td>Bolts</td> <td>1,9 M m</td> </tr> <tr> <td>Watertight strip/membrane PVC+Geotextile</td> <td>255.668 m<sup>2</sup></td> </tr> <tr> <td>Bottom Segment in tunnel (TBM zone)</td> <td>6.213 m</td> </tr> <tr> <td>H-60 Reinforced Concrete for Tunnel Lining</td> <td>165.729 m<sup>3</sup></td> </tr> <tr> <td>Micropile umbrella Crown protection</td> <td>28.044 m</td> </tr><tr> <td>Mortar/grout injections</td> <td>11.730 m<sup>3</sup></td> </tr><tr> <td>Single Line Isostatic Structure</td> <td>760 m<sup>2</sup></td> </tr><tr> <td>Concrete Slab over Steel girders</td> <td>1.620 m<sup>2</sup></td> </tr><tr> <td>Fills taken to waste repository</td> <td>2,5 M m<sup>3</sup></td> </tr> </table> </div> </div>",
+"tabla2":"",
+"item1":"",
+"texto1": "The diversity of formations to be crossed during the driving of the tunnels has made it necessary to design a wide range of structural elements to line the tunnels. The formations of shaley nature are susceptible of “squeezing” during the excavation and this together with the deep cover has revealed very important forces in the calculation models which require strong construction solutions. Ferrovial Agroman have opted to employ a single ring thickness for their TBMs (50 cm) by increasing the characteristic strength of the concrete in accordance with the predicted stresses: 40, 60, 80 and 110 Mpa."
+
+	}
+]
